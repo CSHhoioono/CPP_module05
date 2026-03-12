@@ -6,9 +6,11 @@
 /*   By: soochoi <soochoi@student.42gyeongsan.kr>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/09 10:09:14 by soochoi           #+#    #+#             */
-/*   Updated: 2026/03/09 11:03:31 by soochoi          ###   ########.fr       */
+/*   Updated: 2026/03/12 13:59:33 by soochoi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <iostream>
 
 static void	print_msg(std::string msg)
 {
