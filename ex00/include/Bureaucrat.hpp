@@ -6,14 +6,15 @@
 /*   By: soochoi <soochoi@student.42gyeongsan.kr>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/09 11:04:54 by soochoi           #+#    #+#             */
-/*   Updated: 2026/03/12 17:22:00 by soochoi          ###   ########.fr       */
+/*   Updated: 2026/03/15 11:23:36 by soochoi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef BUREAUCRAT_HPP
 # define BUREAUCRAT_HPP
 
-#include <string>
+# include <string>
+# include <exception>
 
 class Bureaucrat
 {
